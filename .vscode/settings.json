@@ -1,0 +1,6 @@
+{
+    "editor.snippetSuggestions": "top",
+    "javascript.suggestionActions.enabled": false,
+    "typescript.suggestionActions.enabled": false,
+    "javascript.suggest.names": false
+}
